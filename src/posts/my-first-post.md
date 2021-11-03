@@ -10,6 +10,8 @@ tags:
   - center
   - right
 ---
+![This is the alternate text.](/static/img/screen-shot-2021-11-01-at-4.23.30-pm.png "This is the title.")
+
 # This is a Heading h1
 
 ## This is a Heading h2
